@@ -15,7 +15,7 @@ Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-yellow <- 12
+yellow <- 13
 
 blue <- 25
 
